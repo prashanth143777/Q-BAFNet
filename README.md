@@ -6,6 +6,7 @@ ProtT5 for protein sequence encoding
 Cross-Modal Attention Fusion for ligand-protein alignment
 Variational Quantum Circuit (VQC) to project fused embeddings into a high-dimensional quantum Hilbert space
 Hybrid prediction head for final affinity estimation
+The datasets are freely available. Due to copyright issues, we do not upload the datasets
 
 Q-BAFNet/
 │
@@ -17,5 +18,4 @@ Q-BAFNet/
 ├── utils.py             # Helper functions (tokenization, graph creation, etc.)  
 ├── requirements.txt     # Dependency list  
 ├── README.md            # Project documentation  
-└── data/  
-    └── davis.txt        # Input dataset (sample format: ID Protein SMILES Seq Affinity)
+
